@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at Lontarlab
 - 🌱 I’m currently learning all about Flutter, ReactJS and UI/UX Design
-- 💬 Ask me about everything about UI/UX
+- 💬 Ask me everything about UI/UX
 - ⚡ Fun fact: I have a mood booster she is ROSÉ and Shin Ryujin xoxo
 - 📫 Reach me:
 
