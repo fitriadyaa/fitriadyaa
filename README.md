@@ -1,7 +1,7 @@
 ### Hi there 안녕하세요 👋
 
 
-#### I'm a Full-Stack Developer working in Bandung, Indonesia.
+#### I'm a Designer and Developer working in Bandung, Indonesia.
 #### 인도네시아에서온, 데학생과 회사원 피트리아라고합니다. 
 
 - 🔭 I’m currently working at Lontarlab
