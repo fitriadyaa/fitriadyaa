@@ -15,3 +15,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-fitriadesignn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fitriadesignn@gmail.com)](mailto:fitriadesignn@gmail.com)
 
 [![Fitriadyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitriadyaa&show_icons=true&theme=tokyonight)](https://github.com/fitriadyaa/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&theme=tokyonight)
