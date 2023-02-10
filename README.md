@@ -17,5 +17,3 @@
 [![Fitriadyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitriadyaa&show_icons=true&theme=tokyonight)](https://github.com/fitriadyaa/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&theme=tokyonight)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=41ag8wmxc3hyy1ssytcguqkc8)
