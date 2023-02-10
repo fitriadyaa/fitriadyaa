@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&theme=tokyonight)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=41ag8wmxc3hyy1ssytcguqkc8&count={count})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=41ag8wmxc3hyy1ssytcguqkc8)
