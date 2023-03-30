@@ -5,8 +5,8 @@
 #### 인도네시아에서온, 데학생과 회사원 피트리아라고합니다. 
 
 - 🔭 I’m currently working at Lontarlab
-- 🌱 I’m currently learning all about Flutter, React and UI/UX Design
-- 💬 Ask me everything about UI/UX
+- 🌱 I’m currently learning all about Flutter, NextJS and UI/UX Design
+- 💬 Ask me everything about programming and ui/ux
 - 📫 Reach me:
 
 <!-- [![Website Badge](https://img.shields.io/badge/-ihsanfrr.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ihsanfrr.github.io)](https://ihsanfrr.github.io) -->
