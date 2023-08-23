@@ -3,7 +3,7 @@
 
 #### I'm a Designer and Developer working in Bandung, Indonesia.
 
-- 🌱 I’m currently learning all about Flutter, NextJS and UI/UX Design
+- 🌱 I’m currently learning all about Flutter, Dart, Typescript, Javascript and UI/UX Design
 - 💬 Ask me everything about programming and ui/ux
 - 📫 Reach me:
 
