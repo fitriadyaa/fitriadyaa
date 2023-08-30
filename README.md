@@ -12,4 +12,4 @@
 
 [![Fitriadyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitriadyaa&show_icons=true&theme=tokyonight)](https://github.com/fitriadyaa/github-readme-stats)
 
-![Top Langs](<figure><embed src="https://wakatime.com/share/@9221c656-975b-4930-9bc5-ac2f393010f6/c97b2ce3-9ccc-4eb9-85be-abc2d4d79766.svg"></embed></figure>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&theme=tokyonight)
