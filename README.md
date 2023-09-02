@@ -1,7 +1,7 @@
-### Jecha is here👋
+### Fitriadyaa is here👋
 
 
-#### na na na na na jechaaaaaaaaaaaaaaaa 20 years on earthhhhhhhhhh
+#### Mobile Dev | Informatics Student
 
 ### 📫 Reach me:
 
