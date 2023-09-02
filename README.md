@@ -1,7 +1,7 @@
-### Hi there  👋
+### Jecha is here👋
 
 
-#### I'm a Software Engineer and Student working in Bandung, Indonesia.
+#### na na na na na jechaaaaaaaaaaaaaaaa 20 years on earthhhhhhhhhh
 
 ### 📫 Reach me:
 
