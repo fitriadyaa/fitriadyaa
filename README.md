@@ -1,11 +1,7 @@
-### Fitriadyaa is here👋
+![Fitria Widyani's card name](https://cardivo.vercel.app/api?name=Fitria%Widyani&description=Hi,%20I%27m%20a%20Software%20Engineer%20&%20Student%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/56527375?s=400&u=284e912cee123a7636377e296f450721f82a89a6&v=4=4&backgroundColor=%23ecf0f1&instagram=fitriadyaa&github=fitriadyaa&pattern=leaf&colorPattern=%23eaeaea)
 
+### 📫 Contact me:
 
-#### Mobile Dev | Informatics Student
-
-### 📫 Reach me:
-
-[![Instagram Badge](https://img.shields.io/badge/-@fitriadyaa-blue?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/fitriadyaa/)](https://instagram.com/fitriadyaa)
 [![Gmail Badge](https://img.shields.io/badge/-fitrianiwidyaf@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitrianiwidyaf@gmail.com)](mailto:fitrianiwidyaf@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-me@fitriadyaa.my.id-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:me@fitriadyaa.my.id)](mailto:me@fitriadyaa.my.id)
 
