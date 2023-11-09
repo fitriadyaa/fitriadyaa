@@ -1,5 +1,3 @@
-![Fitria Widyani's card name](https://cardivo.vercel.app/api?name=Fitria%Widyani&description=Hi,%20I%27m%20Software%20Engineer%20&%20Student%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/56527375?s=400&u=284e912cee123a7636377e296f450721f82a89a6&v=4=4&backgroundColor=%23ecf0f1&instagram=fitriadyaa&github=fitriadyaa&pattern=leaf&colorPattern=%23eaeaea)
-
 ### 📫 Contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-fitrianiwidyaf@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitrianiwidyaf@gmail.com)](mailto:fitrianiwidyaf@gmail.com)
@@ -16,9 +14,6 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
@@ -30,5 +25,4 @@
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fitriadyaa&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
