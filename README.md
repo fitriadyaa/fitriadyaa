@@ -24,9 +24,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitriadyaa&show_icons=true&locale=en&layout=compact" alt="fitriadyaa" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitriadyaa&show_icons=true&locale=en" alt="fitriadyaa" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fitriadyaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fitriadyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitriadyaa&" alt="fitriadyaa" /></p>
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fitriadyaa/count.svg?"  />
+</div>
+
+###
