@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Fitria</h1>
+<h3 align="center">A passionate software engineer from Indonesia</h3>
+
 ### 📫 Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-fitrianiwidyaf@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitrianiwidyaf@gmail.com)](mailto:fitrianiwidyaf@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-me@fitriadyaa.my.id-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:me@fitriadyaa.my.id)](mailto:me@fitriadyaa.my.id)
@@ -21,5 +24,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriadyaa&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitriadyaa&show_icons=true&locale=en&layout=compact" alt="fitriadyaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitriadyaa&show_icons=true&locale=en" alt="fitriadyaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitriadyaa&" alt="fitriadyaa" /></p>
+
