@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/746371776535199856)](https://discord.com/users/746371776535199856)
-
 # 💻 Tech Stack:
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
